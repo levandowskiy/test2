@@ -1,0 +1,22 @@
+.kek {
+  display: flex;
+  width: 50px;
+}
+
+.lol{
+  width: 10px;
+  display: flex;
+}
+
+span {
+  color: white;
+
+    display: flex;
+   
+    background-color: black;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    justify-content: center; /* Центрирование текста иконки по горизонтали */
+    align-items: center; /* Центрирование текста иконки по вертикали */
+}
